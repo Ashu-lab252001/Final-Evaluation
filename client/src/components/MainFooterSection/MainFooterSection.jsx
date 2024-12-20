@@ -4,7 +4,7 @@ import './MainFooterSection.css';
 const MainFooterSection = () => {
   const footerColumns = [
     {
-      title: 'Made with ❤️ by @ HRK',
+      title: 'Made with ❤️ by @ Ashutosh koli',
       links: []
     },
     
@@ -41,7 +41,7 @@ const MainFooterSection = () => {
           </div>
         ))}
       </div>
-      <p>&copy; 2024 HRK. All rights reserved.</p>
+      <p>&copy; 2024 Ashutosh koli. All rights reserved.</p>
     </footer>
   );
 };
